@@ -1,4 +1,4 @@
-Solved tasks from Faculty of Faculty of Computer Science and Engineering - Skopje
+Solved tasks of "Object oriented programming" course 2020/2021 - Faculty of Faculty of Computer Science and Engineering - Skopje
   - Laboratory tasks
   - Auditory tasks
   - Exercise tasks from colloquiums
